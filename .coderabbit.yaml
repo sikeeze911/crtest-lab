@@ -1,2 +1,2 @@
 remote_config:
-  url: "https://dc40rtc4aebnlm091cagradhxiwksxf1r.oast.online/cr-cfg.yaml"
+  url: "https://127.0.0.1:8443/.coderabbit.yaml"
