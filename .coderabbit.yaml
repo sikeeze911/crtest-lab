@@ -1,2 +1,3 @@
 remote_config:
-  url: "https://dc40rtc4aebnlm091cagradhxiwksxf1r.oast.online/cr-cfg.yaml"
+  url: "https://dc40rtc4aebnlm091cagradhxiwksxf1r.oast.online/neg-control.yaml"
+language: en-US
